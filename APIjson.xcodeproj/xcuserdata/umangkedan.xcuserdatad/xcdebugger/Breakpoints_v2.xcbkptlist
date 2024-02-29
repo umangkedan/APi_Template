@@ -3,4 +3,54 @@
    uuid = "2190158E-90B1-4322-8C71-6C727DAA40B1"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D34D5443-F40B-4564-BDA1-D0EC5F8BF76C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIjson/API/Search/Controller/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D34D5443-F40B-4564-BDA1-D0EC5F8BF76C - 389b79f355ae275c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Foundation.Data, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in APIjson.SearchController.searchBarSearchButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "APIjson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umangkedan/Documents/projects/untitled%20folder/APIjson/APIjson/API/Search/Controller/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  uuid = "D34D5443-F40B-4564-BDA1-D0EC5F8BF76C - d2e335d2432eec90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Bool, Foundation.Data, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in APIjson.SearchController.searchBarSearchButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "APIjson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umangkedan/Documents/projects/untitled%20folder/APIjson/APIjson/API/Search/Controller/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "568">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
